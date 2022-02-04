@@ -1,16 +1,13 @@
-# flutter_push_notification
+This repo contains files that are part of the post at [Send push notifications from a Flutter app to devices with Firebase - xeladu.medium.com](https://xeladu.medium.com/building-flutter-apps-with-azure-devops-eaf9ae7ad158).
 
-A new Flutter project.
+# Content
 
-## Getting Started
+The repository contains a Flutter app with a cloud function to send and receive push notifications. The backend is hosted with Firebase, but it needs to be configured (details in the article).
 
-This project is a starting point for a Flutter application.
+# Support
 
-A few resources to get you started if this is your first Flutter project:
+If you like this post or my work in general, feel free to support me in any way ❤
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- You can [buy me a coffee](https://www.buymeacoffee.com/xeladu) ☕
+- You can [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=JPWK39GGPAAFQ) 🎁
+- You can [engage in the discussion](https://xeladu.medium.com) 📣
