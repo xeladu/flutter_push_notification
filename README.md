@@ -1,4 +1,4 @@
-This repo contains files that are part of the post at [Send push notifications from a Flutter app to devices with Firebase - xeladu.medium.com](https://xeladu.medium.com/building-flutter-apps-with-azure-devops-eaf9ae7ad158).
+This repo contains files that are part of the post at [Send push notifications from a Flutter app to devices with Firebase - xeladu.medium.com](https://levelup.gitconnected.com/send-push-notifications-from-a-flutter-app-to-devices-with-firebase-9c84ce58fe30).
 
 # Content
 
